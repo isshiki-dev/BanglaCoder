@@ -25,3 +25,23 @@ Output: Built-in capabilities for image, audio, and video generation to create r
 MCP Ecosystem Integration
 Custom MCPs: Supports the creation of any custom MCPs from scratch or by wrapping existing tools.
 Pre-built MCPs: Includes a built-in MiniMax MCP and integrates with popular MCPs like Google maps, GitHub/GitLab, Slack, and Figma
+
+
+Features
+Next.js App Router
+Advanced routing for seamless navigation and performance
+React Server Components (RSCs) and Server Actions for server-side rendering and increased performance
+AI SDK
+Unified API for generating text, structured objects, and tool calls with LLMs
+Hooks for building dynamic chat and generative user interfaces
+
+
+Features
+Next.js App Router
+Advanced routing for seamless navigation and performance
+React Server Components (RSCs) and Server Actions for server-side rendering and increased performance
+AI SDK
+Unified API for generating text, structured objects, and tool calls with LLMs
+Hooks for building dynamic chat and generative user interfaces
+
+Simple and secure authentication using Firebase.
