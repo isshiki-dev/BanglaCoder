@@ -44,4 +44,4 @@ AI SDK
 Unified API for generating text, structured objects, and tool calls with LLMs
 Hooks for building dynamic chat and generative user interfaces
 
-Simple and secure authentication using Firebase.
+Simple and secure authentication using Firebase Extends the blueprint.
